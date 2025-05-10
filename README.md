@@ -13,4 +13,4 @@ Motivados pelo grande interesse em desenvolver com LLMs, criamos este novo guia 
 - Sugira ideias em [TCIs IA](https://ticsia.com.br/contato/).
 
 ## Licença
-Baseado no Prompting Guide, sob licença original: MIT.
+Baseado no [Prompting Guide](https://github.com/ticsia/Prompt-Engineering-Guide), sob licença original MIT.
